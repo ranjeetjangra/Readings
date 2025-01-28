@@ -1,3 +1,7 @@
+## Cover Image
+
+![Machine Learning for Network and Cloud Engineers](Machine%20Learning%20for%20Network%20and%20Cloud%20Engineers-%20Cover%20Image.jpg)
+
 ## History
 
 Network automation has focused so far on automating "actions". As an Industry, we have focused on the "how" and get it automated (how to automate a software upgrade, how to automate a configuration change, how to automate service provisioning, etc.).
@@ -15,3 +19,7 @@ Network and Cloud infrastructures are more complex than ever but more critical t
 The book covers a wide range of machine learning techniques and algorithms, from traditional statistical methods to cutting-edge deep neural networks. It provides real-world examples and use cases for applying these techniques in network and cloud infrastructures, along with Python code to help readers get started. 
 
 The book aims to equip engineers with the knowledge and skills needed to automate decisions and optimize their networks and clouds using machine learning.
+
+## Where to buy ?
+
+Amazon https://amzn.eu/d/3Q8GCXM
