@@ -1,7 +1,6 @@
 ## Cover Image
 
-![The Lean Product Playbook]
-(The%20Lean%20Product%20Playbook%20-%20Cover%20image.jpg)
+![The Lean Product Playbook](The%20Lean%20Product%20Playbook%20-%20Cover%20image.jpg)
 
 ## History
 
